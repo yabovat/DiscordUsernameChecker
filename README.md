@@ -3,5 +3,6 @@ This a Python script that uses Selenium to autonomously iterate through a list o
 
 To use this you will need to download:
  - Firefox
+ - Selenium
  - GeckoDriver
  - Discord Username and Password
